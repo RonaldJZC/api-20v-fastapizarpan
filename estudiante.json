@@ -1,11 +1,11 @@
 [
   {
     "id": 2,
-    "nombre": "lorena",
-    "apellido": "Yange sayan",
+    "nombre": "Maria",
+    "apellido": "Farroñay chafloque",
     "aprobado": true,
     "nota": 20.0,
-    "fecha": "2025-10-08T02:15:51.432000+00:00"
+    "fecha": "2025-10-08T02:41:23.306000+00:00"
   },
   {
     "id": 3,
@@ -22,5 +22,13 @@
     "aprobado": true,
     "nota": 20.0,
     "fecha": "2025-10-08T02:13:34.664000+00:00"
+  },
+  {
+    "id": 6,
+    "nombre": "raul",
+    "apellido": "Alarcon Sandobal",
+    "aprobado": true,
+    "nota": 15.0,
+    "fecha": "2025-10-08T02:33:24.186000+00:00"
   }
 ]
