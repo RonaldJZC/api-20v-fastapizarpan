@@ -1,42 +1,26 @@
 [
   {
-    "_id": { "$oid": "6502d1f5e8a6d5b12c7f9a01" },
-    "nombre": "Juan",
-    "apellido": "Pérez",
+    "id": 2,
+    "nombre": "lorena",
+    "apellido": "Yange sayan",
     "aprobado": true,
-    "nota": 7.5,
-    "fecha": { "$date": "2024-09-01T00:00:00Z" }
+    "nota": 20.0,
+    "fecha": "2025-10-08T02:15:51.432000+00:00"
   },
   {
-    "_id": { "$oid": "6502d1f5e8a6d5b12c7f9a02" },
-    "nombre": "María",
-    "apellido": "López",
-    "aprobado": false,
-    "nota": 4.2,
-    "fecha": { "$date": "2024-09-02T00:00:00Z" }
-  },
-  {
-    "_id": { "$oid": "6502d1f5e8a6d5b12c7f9a03" },
-    "nombre": "Carlos",
-    "apellido": "García",
+    "id": 3,
+    "nombre": "ronald",
+    "apellido": "zarpan casas",
     "aprobado": true,
-    "nota": 8.9,
-    "fecha": { "$date": "2024-09-03T00:00:00Z" }
+    "nota": 20.0,
+    "fecha": "2025-10-08T02:03:54.745000+00:00"
   },
   {
-    "_id": { "$oid": "6502d1f5e8a6d5b12c7f9a04" },
-    "nombre": "Lucía",
-    "apellido": "Martínez",
+    "id": 4,
+    "nombre": "antony",
+    "apellido": "zarpan casas",
     "aprobado": true,
-    "nota": 9.1,
-    "fecha": { "$date": "2024-09-04T00:00:00Z" }
-  },
-  {
-    "_id": { "$oid": "6502d1f5e8a6d5b12c7f9a05" },
-    "nombre": "Sofía",
-    "apellido": "Fernández",
-    "aprobado": false,
-    "nota": 5.0,
-    "fecha": { "$date": "2024-09-05T00:00:00Z" }
+    "nota": 20.0,
+    "fecha": "2025-10-08T02:13:34.664000+00:00"
   }
 ]
