@@ -1,11 +1,11 @@
 1. Para qué se puede usar Python en lo que respecta a datos. Dar 5 casos y explicar brevemente
 Python se puede usar para casi todo lo relacionado con datos, porque tiene librerías muy potentes.
 Algunos casos:
-1.	Análisis de datos → usando Pandas o NumPy se puede limpiar, procesar y analizar grandes volúmenes de información (por ejemplo, analizar el historial de mantenimientos de equipos médicos).
-2.	Visualización → con Matplotlib o Seaborn se crean gráficos que permiten entender tendencias y comportamientos en los datos.
-3.	Machine Learning → usando Scikit-learn o TensorFlow se pueden crear modelos predictivos, por ejemplo, para anticipar fallas en equipos.
-4.	Automatización de reportes → se pueden generar informes automáticos (PDF, Excel, etc.) a partir de bases de datos o sensores.
-5.	Integración con bases de datos → Python puede conectarse con SQL, MongoDB o APIs para recolectar y combinar información de diferentes fuentes.
+  1.	Análisis de datos → usando Pandas o NumPy se puede limpiar, procesar y analizar grandes volúmenes de información (por ejemplo, analizar el historial de mantenimientos de equipos médicos).
+  2.	Visualización → con Matplotlib o Seaborn se crean gráficos que permiten entender tendencias y comportamientos en los datos.
+  3.	Machine Learning → usando Scikit-learn o TensorFlow se pueden crear modelos predictivos, por ejemplo, para anticipar fallas en equipos.
+  4.	Automatización de reportes → se pueden generar informes automáticos (PDF, Excel, etc.) a partir de bases de datos o sensores.
+  5.	Integración con bases de datos → Python puede conectarse con SQL, MongoDB o APIs para recolectar y combinar información de diferentes fuentes.
 ------------------------------------------------------------------
 2. ¿Cómo se diferencian Flask de Django? Argumentar.
 Ambos son frameworks web de Python, pero tienen enfoques distintos:
