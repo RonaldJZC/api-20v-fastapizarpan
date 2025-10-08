@@ -33,3 +33,12 @@ Permite obtener datos del clima de cualquier ciudad del mundo. Uno se registra, 
 https://api.openweathermap.org/data/2.5/weather?q=Lima&appid=TU_API_KEY
 El servidor devuelve un JSON con la temperatura, humedad, presión, etc.
 Esto se puede integrar, por ejemplo, en una aplicación hospitalaria para ajustar automáticamente la climatización de ambientes donde se guardan equipos sensibles.
+
+----------------------------------------------------- como ejecutar el programa------------------------
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repositorio 
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+fastapi dev main.py
+
